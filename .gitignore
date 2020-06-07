@@ -1,0 +1,7 @@
+#elm build
+elm-stuff/*
+#note elm.js is included by default 
+#so you can just run the server without elm
+
+#IDE
+.vscode/*
